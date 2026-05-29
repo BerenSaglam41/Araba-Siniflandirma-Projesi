@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+torch
+torchvision
+pillow
+python-multipart
+
+
+python3 -m uvicorn app:app --reload --port 8000
